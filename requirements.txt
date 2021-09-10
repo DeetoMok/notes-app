@@ -1,0 +1,9 @@
+
+# https://reactrouter.com/web/guides/quick-start
+npm install react-router-dom
+
+# https://mumbleui.com/icons
+
+# https://www.npmjs.com/package/json-server
+npm install -g json-server
+# json-server --watch db.json --port 8000
